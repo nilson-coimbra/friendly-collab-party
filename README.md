@@ -10,3 +10,7 @@ Bullet points
  - List item 1
  - List item 2
  - List item 3
+
+**Bold text **
+
+*italictc text*
